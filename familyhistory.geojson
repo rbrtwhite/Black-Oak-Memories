@@ -1,0 +1,683 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Robert White",
+        "Year": 1910,
+        "Description": "Cookes Presbyterian Cemetery",
+        "Family": "White",
+		"Big8": "White"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.726203,
+          44.366916
+        ],
+        "type": "Point"
+      },
+      "id": "9a39e7973c3dfabd60d9892218deabc9"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Elizabeth (Boyle) White",
+        "Year": 1934,
+        "Description": "Cookes Presbyterian Cemetery",
+        "Family": "Boyle",
+		"Big8": "Boyle"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.726199,
+          44.366896
+        ],
+        "type": "Point"
+      },
+      "id": "2cd62fb51d3e05e76f19ae2e18956a8f"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Frank Hugh White",
+        "Year": 1964,
+        "Description": "Riverside Memorial Park Cemetery",
+        "Family": "White",
+        "place_name": "Regina, SK",
+        "Legal Description": "40E-P02-LC",
+		"Big8": "White"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.567358,
+          50.423788
+        ],
+        "type": "Point"
+      },
+      "id": "5056d3328f516ccd48954409fca5f7d7"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Year": 1948,
+        "Name": "William Henry Tebbutt",
+        "Description": "Woodlawn Cemetery",
+        "Family": "Tebbutt",
+        "place_name": "Nipawin, Saskatchewan",
+		"Big8": "Tebbutt"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.028414,
+          53.355647
+        ],
+        "type": "Point"
+      },
+      "id": "afb9169bbde15ddd1fb4ee3ec57236b3"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Edith Emily (Andrews) Tebbutt",
+        "Year": 1930,
+        "Description": "Woodlawn Cemetery",
+        "Family": "Andrews",
+        "place_name": "Nipawin, Saskatchewan",
+		"Big8": "Andrews"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.02852,
+          53.355626
+        ],
+        "type": "Point"
+      },
+      "id": "de1667eba11298dd0620bb298646f1af"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Velna Pearl (Tebbutt) Rauhut",
+        "Year": 1976,
+        "Description": "Riverside Memorial Park Cemetery",
+        "Family": "Tebbutt",
+        "place_name": "Regina, SK",
+        "Legal Description": "40E-P03-LA",
+		"Big8": "Tebbutt"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.567449,
+          50.423769
+        ],
+        "type": "Point"
+      },
+      "id": "8c0fe70f4a8f0496655932ee813c79a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "William Smith",
+        "Event": "burial",
+        "Year": 1892,
+        "place_name": "Prices Corner, Dufferin, Ontario",
+        "Description": "Price's Corners Cemetery",
+        "Family": "Smith",
+		"Big8": "Tebbutt"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.235049,
+          43.818635
+        ],
+        "type": "Point"
+      },
+      "id": "1867d73acdff4e94c7efff70575ea80a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Nancy (Davidson) White",
+        "Year": 1873,
+        "Description": "Cookes Presbyterian Cemetery",
+        "Family": "Davidson",
+		"Big8": "White"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.726216,
+          44.366901
+        ],
+        "type": "Point"
+      },
+      "id": "492a2470aef8a8a3975f3346bc5748f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Description": "Madford Cemetery",
+        "Name": "Henry Andrews",
+        "Year": 1912,
+        "Event": "burial",
+        "Family": "Andrews",
+		"Big8": "Andrews"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.712737,
+          49.931422
+        ],
+        "type": "Point"
+      },
+      "id": "605567721eea2e804faad3e51c9947b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Levi Tebbutt",
+        "Year": 1906,
+        "Description": "McKee Cemetery",
+        "Family": "Tebbutt",
+		"Big8": "Tebbutt"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.277854,
+          43.78088
+        ],
+        "type": "Point"
+      },
+      "id": "6a6b7a7d579292992ad80d97584d141e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sarah (Black) McVicar",
+        "Event": "burial",
+        "Family": "Black",
+        "place_name": "Arundel, Quebec",
+        "Year": 1894,
+        "Description": "Arundel Public Cemetery",
+		"Big8": "Andrews"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.613729,
+          45.978578
+        ],
+        "type": "Point"
+      },
+      "id": "8569c0cfc6edbaa522e3b8e1904bf11b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Francis Boyle",
+        "Year": 1896,
+        "Description": "Latona Cemetery",
+		"Family": "Boyle",
+		"Big8": "Boyle"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.848585,
+          44.288739
+        ],
+        "type": "Point"
+      },
+      "id": "9f871ac4fe33d069f974731ae58763cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Isabella (Catherwood) Smith",
+        "Event": "burial",
+        "Year": 1872,
+        "place_name": "Prices Corner, Dufferin, Ontario",
+        "Description": "Price's Corners Cemetery",
+        "Family": "Catherwood",
+		"Big8": "Tebbutt"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.235095,
+          43.818594
+        ],
+        "type": "Point"
+      },
+      "id": "a496f4f918bc5ef1fb3331f325108d49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Family": "White",
+        "Name": "R Gordon White",
+        "Year": 2020,
+        "place_name": "Surrey, British Columbia",
+        "Description": "Heritage Gardens Cemetery",
+        "Event": "burial",
+		"Big8": "White"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.693523,
+          49.029824
+        ],
+        "type": "Point"
+      },
+      "id": "cbea7fdb6a22a6d7d736524afee43d94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Description": "Madford Cemetery",
+        "Name": "Marjory (McVicar) Andrews",
+        "Year": 1927,
+        "Family": "McVicar",
+		"Big8": "Andrews"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.712837,
+          49.931388
+        ],
+        "type": "Point"
+      },
+      "id": "d479d5bf2cae56587355635bd88fe54c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Family": "McVicar",
+        "Name": "Archibald McVicar",
+        "place_name": "Grenville, Laurentides Region, Quebec",
+        "Year": 1863,
+        "Description": "Scotch Road Cemetery",
+		"Big8": "Andrews"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.586338,
+          45.696021
+        ],
+        "type": "Point"
+      },
+      "id": "ee876e934639ea77e849c393044fbd78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Elizabeth (Wray) Boyle",
+        "Year": 1888,
+        "Description": "Latona Cemetery",
+        "Family": "Wray",
+		"Big8": "Boyle"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.84862,
+          44.288786
+        ],
+        "type": "Point"
+      },
+      "id": "effee807fe2f01789949a3efd59af407"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Name": "Howard Elmer Ljunggren",
+        "Year": 2016,
+        "Description": "Hillcrest Cemetery",
+        "Family": "Ljunggren",
+        "place_name": "Swift Current, SK",
+		"Big8": "Ljunggren"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.766524,
+          50.29643
+        ],
+        "type": "Point"
+      },
+      "id": "12de7efe20cb8ec753f4e7cac034ccc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Augusta Wilhelmina (Pettersson) Wallner",
+        "Description": "Valley View Memorial Gardens",
+        "Year": 1973,
+        "Event": "burial",
+        "Family": "Pettersson",
+		"Big8": "Pettersson"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.814727,
+          49.131798
+        ],
+        "type": "Point"
+      },
+      "id": "5d05ed30402dcf51952c588bbeffccc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Daniel Vigor Agar",
+        "Event": "burial",
+        "Year": 1929,
+        "Description": "Mount Pleasant Cemetery",
+        "Family": "Agar",
+        "place_name": "Swift Current, SK",
+		"Big8": "Agar"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.791635,
+          50.296424
+        ],
+        "type": "Point"
+      },
+      "id": "a1c70c1d21b98cd195a2c209e213a9a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Muriel Hattie (Newell) Agar",
+        "Year": 1989,
+        "Event": "burial",
+        "Description": "Mount Pleasant Cemetery",
+        "Family": "Newell",
+        "place_name": "Swift Current, SK",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.791631,
+          50.296401
+        ],
+        "type": "Point"
+      },
+      "id": "ca08ab9e5a32b7512d30940b363bc8d6"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Description": "Hillcrest Cemetery",
+        "Name": "Muriel Eileen (Agar) Ljunggren",
+        "Year": 2017,
+        "Family": "Agar",
+        "place_name": "Swift Current, SK",
+		"Big8": "Agar"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.76652,
+          50.296409
+        ],
+        "type": "Point"
+      },
+      "id": "086256acdd9d651a00bb267c16bb2f31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ann (Warren) Agar",
+        "Event": "burial",
+        "Family": "Warren",
+        "place_name": "Palmerston, Ontario",
+        "Description": "Palmerston Cemetery",
+        "Year": 1934,
+		"Big8": "Agar"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.870471,
+          43.837074
+        ],
+        "type": "Point"
+      },
+      "id": "39259e275d5f55551bfd6efaa864df0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lorena Florence (Demaray) Newell",
+        "Event": "burial",
+        "Year": 1908,
+        "Family": "Demarest",
+        "Description": "Strathroy Municipal Cemetery",
+        "place_name": "Strathroy, Ontario",
+        "Legal Description": "C.31.1 (1892 survey)",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.636449,
+          42.946011
+        ],
+        "type": "Point"
+      },
+      "id": "48acdb5579a76c5456245e610f0261ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Benjamin Demaray",
+        "Event": "burial",
+        "Year": 1891,
+        "Family": "Demarest",
+        "Description": "Gladstone Baptist Cemetery",
+        "place_name": "Gladstone, MIddlesex, Ontario",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.050643,
+          42.917269
+        ],
+        "type": "Point"
+      },
+      "id": "508a869451489f59c3b96ca8cb2e054c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "burial",
+        "Legal Description": "Block 11N",
+        "Description": "Mount Pleasant Cemetery",
+        "Name": "Harriet (Warren) Newell",
+        "Year": 1950,
+        "Family": "Warren",
+        "place_name": "Swift Current, SK",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.789769,
+          50.297017
+        ],
+        "type": "Point"
+      },
+      "id": "52bbefc15f7c9fd29997b8685fccca01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Martha (Summerville) Newell",
+        "Event": "burial",
+        "Description": "Burdick Cemetery",
+        "place_name": "Summers Corners, Ontario",
+        "Year": 1864,
+        "Family": "Summerville",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.926728,
+          42.763342
+        ],
+        "type": "Point"
+      },
+      "id": "5347cb839db715b86544330a3de7a907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "James Newell",
+        "Family": "Newell",
+        "Description": "Burdick Cemetery",
+        "place_name": "Summers Corners, Ontario",
+        "Event": "burial",
+        "Year": 1859,
+        "Source": "https://www.findagrave.com/memorial/30574006/james-newell",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.926732,
+          42.763394
+        ],
+        "type": "Point"
+      },
+      "id": "8e179d97c6137618db1709192885167c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Johan August Ljunggren",
+        "Event": "burial",
+        "Family": "Ljunggren",
+        "place_name": "Swift Current, SK",
+        "Description": "Mount Pleasant Cemetery",
+        "Year": 1935,
+		"Big8": "Ljunggren"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.791313,
+          50.296434
+        ],
+        "type": "Point"
+      },
+      "id": "9d1ce90796cf9ee0f63380cdb380cf2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Charles Agar",
+        "Event": "burial",
+        "Family": "Agar",
+        "place_name": "Palmerston, Ontario",
+        "Description": "Palmerston Cemetery",
+        "Year": 1943,
+		"Big8": "Agar"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.870471,
+          43.837074
+        ],
+        "type": "Point"
+      },
+      "id": "b9594b0ce7706ca67fd293c098e3852a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Charles Thomas Agar",
+        "Event": "burial",
+        "Family": "Agar",
+        "place_name": "Palmerston, Ontario",
+        "Description": "Palmerston Cemetery",
+        "Year": 1943,
+		"Big8": "Agar"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.870476,
+          43.837059
+        ],
+        "type": "Point"
+      },
+      "id": "ca0b90d20ddfbabe9f1cc9d0f4e98919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cyrus Newell",
+        "Event": "burial",
+        "Year": 1936,
+        "Description": "Mount Pleasant Cemetery",
+        "Legal Description": "BLock 11N",
+        "Family": "Newell",
+        "place_name": "Swift Current, SK",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.789775,
+          50.297016
+        ],
+        "type": "Point"
+      },
+      "id": "cf3f824a074ad842a1776c5a34beefa8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alexander Newell",
+        "Event": "burial",
+        "Year": 1904,
+        "Family": "Newell",
+        "Description": "Strathroy Municipal Cemetery",
+        "place_name": "Strathroy, Ontario",
+        "Legal Description": "C.31.1 (1892 survey)",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.636447,
+          42.946011
+        ],
+        "type": "Point"
+      },
+      "id": "e724926f76b44b32af43a7cfd8e64fb2"
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rebecca (Varnum) Demaray",
+        "Event": "burial",
+        "Year": 1855,
+        "Description": "Poplar Hill Cemetery",
+        "place_name": "Poplar Hill, Middlesex, Ontario",
+        "Family": "Varnum",
+		"Big8": "Newell"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.519293,
+          43.008981
+        ],
+        "type": "Point"
+      },
+      "id": "f4454436f9c076955b1dbe30ecf12b65"
+    }
+  ]
+}
